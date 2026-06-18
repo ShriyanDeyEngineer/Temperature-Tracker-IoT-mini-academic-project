@@ -4,5 +4,5 @@ IoT temperature tracking system using Particle Photon 2 and C++ with real time s
 This project was started and completed during April, 2026.
 
 
-Link to google folder with demonstration video: 
+Link to google folder with demonstration video and gathered data: 
 https://drive.google.com/drive/folders/1k2SFRyBJheZChL9HplGy2AGN5zZmTf_4?usp=sharing
